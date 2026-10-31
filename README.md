@@ -16,8 +16,8 @@ This repository contains a computational pipeline that models maize price volati
 ## Repository Contents
 * `njoro_pipeline.py`: The main executable pipeline (ingests data, runs the Monte Carlo, generates figures).
 * `threshold_regression.py`: A script to run the threshold regression on the overlapping years.
-* `njoro_agroecology_research_paper.md`: The full research paper.
-* `njoro_agroecology_research_paper.pdf`: The typeset PDF version (generated via Kami).
+* `Regime_Persistence_and_Climate_Sensitivity_in_Kenyan_Highland_Maize_Prices.md`: The full research paper.
+* `Regime_Persistence_and_Climate_Sensitivity_in_Kenyan_Highland_Maize_Prices.pdf`: The typeset PDF version (generated via Kami(https://github.com/tw93/Kami)).
 * `njoro_forecast.png`: The 4-panel publication-grade figure.
 * `njoro_forecast_summary.csv`: The monthly p10–p90 price trajectory forecasts.
 
